@@ -1,3 +1,5 @@
+# Crie/atualize o arquivo .gitignore
+cat > .gitignore << 'EOF'
 # Django
 *.log
 *.pot
@@ -13,3 +15,4 @@ venv/
 # IDE
 .vscode/
 .idea/
+EOF

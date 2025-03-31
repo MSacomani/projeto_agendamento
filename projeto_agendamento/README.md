@@ -1,2 +1,0 @@
-# Projeto Agendamento (Django)
-
